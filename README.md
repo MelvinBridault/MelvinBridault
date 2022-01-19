@@ -13,8 +13,6 @@
     <a href="melvin.bridault@gmail.com"><img width="32px" alt="Gmail logo" title="Gmail" src="https://www.iconsdb.com/icons/preview/color/F75C7E/message-xxl.png"/></a>
 </p>
 
----
-
 <h2 align="center">
 Languages and Tools
 </h2>
