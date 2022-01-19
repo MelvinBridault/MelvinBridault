@@ -1,13 +1,12 @@
-<h3 align="center">
+<h1 align="center">
   Welcome to Melvin Bridault's profile !
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  
-</h3>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38">
+</h1>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&size=22&center=true&vCenter=true&lines=Data+analyst+junior;Always+learning+new+things"></a>
 </p>
 
-<!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/melvin-bridault/"><img width="32px" alt="LinkedIn logo" title="LinkedIn" src="https://www.iconsdb.com/icons/preview/color/F75C7E/linkedin-4-xxl.png"/></a>
   <a href="https://github.com/MelvinBridault"><img width="32px" alt="Github logo" title="Github" src="https://www.iconsdb.com/icons/preview/color/F75C7E/github-9-xxl.png"/></a>
@@ -16,9 +15,9 @@
 
 ---
 
-<p align="center">
+<h2 align="center">
 Languages and Tools
-</p>
+</h2>
 
 <p align="center">
   <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
