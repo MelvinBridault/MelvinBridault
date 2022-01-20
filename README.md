@@ -8,9 +8,9 @@
 </p>
 <br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/melvin-bridault/"><img width="32px" alt="LinkedIn logo" title="LinkedIn" src="https://www.iconsdb.com/icons/preview/color/F75C7E/linkedin-4-xxl.png"/></a>
+  <a href="https://www.linkedin.com/in/melvin-bridault/"><img width="32px" alt="LinkedIn logo" title="LinkedIn"src="https://www.iconsdb.com/icons/preview/color/F75C7E/linkedin-4-xxl.png"/></a>
   <a href="https://github.com/MelvinBridault"><img width="32px" alt="Github logo" title="Github" src="https://www.iconsdb.com/icons/preview/color/F75C7E/github-9-xxl.png"/></a>
-    <a href="melvin.bridault@gmail.com"><img width="32px" alt="Gmail logo" title="Gmail" src="https://www.iconsdb.com/icons/preview/color/F75C7E/message-xxl.png"/></a>
+  <a href="mailto:melvin.bridault@gmail.com"><img width="32px" alt="Gmail logo" title="Gmail" src="https://www.iconsdb.com/icons/preview/color/F75C7E/message-xxl.png"/></a>
 </p>
 <br>
 <h2 align="center">
