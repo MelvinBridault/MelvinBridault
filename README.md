@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&size=22&center=true&vCenter=true&lines=Data+analyst+junior;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&size=22&center=true&vCenter=true&lines=Data+analyst+junior;Passionate+about+data+science;Always+learning+new+things"></a>
 </p>
 <br>
 <p align="center">
@@ -30,5 +30,5 @@ Languages and Tools
 <br>
 <br>
 <p align="center">
-  <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" alt="animated alt="Gif" width="480" height="322">
+  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" alt="animated alt="Gif" width="480" height="360">
 </p>
