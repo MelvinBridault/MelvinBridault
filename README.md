@@ -37,3 +37,8 @@ Languages and Tools
 <p align="center">
   <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" alt="animated alt="Gif" width="480" height="360">
 </p>
+                                                                                                                       
+<p align="center">                                                                                                                      
+  <a href="https://komarev.com/ghpvc/?username=MelvinBridault&style=plastic&color=F75C7E">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=MelvinBridault&style=plastic&color=F75C7E"/></a>
+</p>
