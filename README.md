@@ -33,11 +33,12 @@ Languages and Tools
   <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=google-colab&logoColor=white"></a>
 </p>
 <br>
-<br>
-<p align="center">
-  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" alt="animated alt="Gif" width="480" height="360">
+
+<p align="center">                                                                                                                      
+  <a href="https://user-images.githubusercontent.com/73826011/150673367-848d5515-0140-4bc9-89fc-fb551dd5cf08.png">
+    <img alt="graph" src="https://user-images.githubusercontent.com/73826011/150673367-848d5515-0140-4bc9-89fc-fb551dd5cf08.png"/></a>
 </p>
-                                                                                                                       
+
 <p align="center">                                                                                                                      
   <a href="https://komarev.com/ghpvc/?username=MelvinBridault&style=plastic&color=F75C7E">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=MelvinBridault&style=plastic&color=F75C7E"/></a>
