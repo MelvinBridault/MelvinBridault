@@ -41,5 +41,5 @@ Languages and Tools
 
 <p align="center">                                                                                                                      
   <a href="https://komarev.com/ghpvc/?username=MelvinBridault&style=plastic&color=F75C7E">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=MelvinBridault&style=plastic&color=d92949"/></a>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=MelvinBridault&style=plastic&color=F75C7E"/></a>
 </p>
