@@ -27,11 +27,6 @@ Languages and Tools
 </p>
 <br>
 <p align="center">                                                                                                                      
-  <a href="https://user-images.githubusercontent.com/73826011/150673723-06234a02-0548-410e-8cbf-eef869f07d7c.png">
-    <img alt="graph" src="https://user-images.githubusercontent.com/73826011/150673723-06234a02-0548-410e-8cbf-eef869f07d7c.png"/></a>
-</p>
-
-<p align="center">                                                                                                                      
   <a href="https://komarev.com/ghpvc/?username=MelvinBridault&style=plastic&color=F75C7E">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=MelvinBridault&style=plastic&color=F75C7E"/></a>
 </p>
