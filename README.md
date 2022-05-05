@@ -14,7 +14,7 @@
 </p>
 <br>
 <h2 align="center">
-Languages and Tools
+🔧 Languages and Tools
 </h2>
 <br>
 <p align="center">
