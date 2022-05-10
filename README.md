@@ -1,6 +1,5 @@
 <h1 align="center">
-  Welcome to Melvin Bridault's profile !
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38">
+  Welcome to Melvin Bridault's profile ! :wave:
 </h1>
 
 <p align="center">
